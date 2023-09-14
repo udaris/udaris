@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hola 👋, I am Udari Kodippilige
+A passionate Developer|Researcher| Learner from Sri Lanka
 <!--
 **udaris/udaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Full-Stack Development
+- 🌱 I’m currently learning Computer Science
+- 👯 I’m looking to collaborate on innavative team
+- 📫 How to reach me here
+- ⚡ Fun fact: I am happy with little things :)
