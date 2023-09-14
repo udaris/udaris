@@ -8,8 +8,8 @@ A passionate Developer|Researcher| Learner from Sri Lanka
 - 👯 I’m looking to collaborate on innavative team
 - 📫 You can find me on:
    - [GitHub](https://github.com/udaris)
-   - [LinkedIn](https://linkedin.com/in/yourname)
-   - [Personal Website](https://yourwebsite.com)
+   - [LinkedIn](https://linkedin.com/in/udarikodippilige)
+   - [Personal Website](https://udaris.github.io/myportfilo/)
 - ⚡ Fun fact: I am happy with little things :)
 ### ✨ Technologies and Tools
 <table style="border: none;">
