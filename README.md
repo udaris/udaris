@@ -14,6 +14,6 @@ A passionate Developer|Researcher| Learner from Sri Lanka
 ### ✨ Technologies and Tools
 
 
-![Java Logo](https://miro.medium.com/v2/resize:fit:1400/1*CVpIFxOrnDsGwwaOKcKw_A.png=100*100)
+![Java Logo](https://miro.medium.com/v2/resize:fit:1400/1*CVpIFxOrnDsGwwaOKcKw_A.png =100*100)
 ![Spring Boot Logo](https://example.com/spring-boot-logo.png)
 
