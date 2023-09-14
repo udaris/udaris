@@ -1,5 +1,5 @@
 ### Hola 👋, I am Udari Kodippilige
-A passionate Developer|Researcher| Learner from Sri Lanka
+A passionate Developer | Researcher | Learner from Sri Lanka
 <!--
 **udaris/udaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
