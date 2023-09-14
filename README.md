@@ -2,25 +2,17 @@
 A passionate Developer|Researcher| Learner from Sri Lanka
 <!--
 **udaris/udaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on Full-Stack Development
 - 🌱 I’m currently learning Computer Science
 - 👯 I’m looking to collaborate on innavative team
-- 📫 How to reach me here
+- 📫 You can find me on:
+   - [GitHub](https://github.com/yourusername)
+   - [LinkedIn](https://linkedin.com/in/yourname)
+   - [Personal Website](https://yourwebsite.com)
 - ⚡ Fun fact: I am happy with little things :)
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/0a/8cd7f1b14344618b75142593bc7af8/JavaCupLogo800x800.png?auto=format%2Ccompress&dpr=1">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
-</picture>
+### ✨ Technologies and Tools
+
+![Java Logo](https://example.com/java-logo.png)
+![Spring Boot Logo](https://example.com/spring-boot-logo.png)
+
