@@ -15,5 +15,4 @@ A passionate Developer|Researcher| Learner from Sri Lanka
 
 
 ![Java Logo](https://miro.medium.com/v2/resize:fit:1400/1*CVpIFxOrnDsGwwaOKcKw_A.png)
-![Spring Boot Logo](https://example.com/spring-boot-logo.png)
 
