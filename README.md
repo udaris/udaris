@@ -12,11 +12,11 @@ A passionate Developer | Researcher | Learner from Sri Lanka
    - [Personal Website](https://udaris.github.io/myportfilo/)
 - ⚡ Fun fact: I am happy with little things :)
 
-![Profile Views](https://shields.io/github/followers/udaris?label=Profile%20Views)
+![Profile Views](https://shields.io/github/followers/udaris?label=Profile%20Views)      
+   ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage) 
+   ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S&title=Reviews)
+   ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=A)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage) 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S&title=Reviews)
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=A)
 ![trophy](https://github-profile-trophy.vercel.app/?username=udaris&title=Repositories,Stars,PullRequest,Followers,Issues)
 
 ### ✨ Technologies and Tools
@@ -32,11 +32,13 @@ A passionate Developer | Researcher | Learner from Sri Lanka
    ![JavaScript](https://img.shields.io/badge/JavaScript-Most%20Used-red) <br>
    ![Python](https://img.shields.io/badge/Python-Experienced-yellow)<br>
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Experienced-green)<br>
-![Java](https://img.shields.io/badge/Java-Proficient-green)<br>
-![Angular](https://img.shields.io/badge/Angular-Experienced-blue)<br>
+![Java](https://img.shields.io/badge/Java-Proficient-darkgreen)<br>
+![Angular](https://img.shields.io/badge/Angular-Experienced-darkblue)<br>
 ![MySQL](https://img.shields.io/badge/MySQL-Proficient-green)<br>
 ![Final Year Project](https://img.shields.io/badge/Final%20Year%20Project-Python%20%26%20Machine%20Learning-blue)<br>
-
+![ReactNative](https://img.shields.io/badge/ReactNative-Experienced-lightblue)<br>
+![Firebase](https://img.shields.io/badge/Firebase-Experienced-lightblue)<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-Experienced-lightblue)<br>
 </td>
    </row>
 </table>
