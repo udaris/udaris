@@ -15,7 +15,7 @@ A passionate Developer | Researcher | Learner from Sri Lanka
 ![Profile Views](https://shields.io/github/followers/udaris?label=Profile%20Views)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage)
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S&title=Reviews)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=A)
 ![trophy](https://github-profile-trophy.vercel.app/?username=udaris&title=Repositories,Stars,PullRequest,Followers,Issues)
 
