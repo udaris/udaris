@@ -14,12 +14,37 @@ A passionate Developer | Researcher | Learner from Sri Lanka
 
 ![Profile Views](https://shields.io/github/followers/udaris?label=Profile%20Views)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=MultiLanguage) 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=S&title=Reviews)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=A)
 ![trophy](https://github-profile-trophy.vercel.app/?username=udaris&title=Repositories,Stars,PullRequest,Followers,Issues)
 
 ### ✨ Technologies and Tools
+
+<table style="border-collapse: collapse; border: none;">
+   <row style="border-collapse: collapse; border: none;">
+<td style="border-collapse: collapse; border: none;">
+   
+   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=udaris) <br>
+</td>
+<td style="border-collapse: collapse; border: none;">
+   
+   ![JavaScript](https://img.shields.io/badge/JavaScript-Most%20Used-red) <br>
+   ![Python](https://img.shields.io/badge/Python-Experienced-yellow)<br>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Experienced-green)<br>
+![Java](https://img.shields.io/badge/Java-Proficient-green)<br>
+![Angular](https://img.shields.io/badge/Angular-Experienced-blue)<br>
+![MySQL](https://img.shields.io/badge/MySQL-Proficient-green)<br>
+![Final Year Project](https://img.shields.io/badge/Final%20Year%20Project-Python%20%26%20Machine%20Learning-blue)<br>
+
+</td>
+   </row>
+</table>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=udaris&show_icons=true&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=udaris)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 <table style="border: none;">
   <tr>
    <td><img src="https://miro.medium.com/v2/resize:fit:1400/1*CVpIFxOrnDsGwwaOKcKw_A.png" width="40" height="40"></td>
@@ -43,5 +68,9 @@ A passionate Developer | Researcher | Learner from Sri Lanka
        <td><img src="https://miro.medium.com/v2/resize:fit:1024/1*tsqlgfBBb32ZLx1Y6bwzKA.jpeg" width="40" height="40"></td>
    </tr>
 </table>
+
+
+
+
 
 
